@@ -8,7 +8,7 @@
 - Cream of tartar
 - Vanilla and almond extracts
 
-## directions
+## instructions
 
 - seperate the eggs
 - Sift the flour and sugar 
