@@ -4,7 +4,7 @@
 ## Ingredients
 
 - **225g** butter
-- **150g** brown sugar
+- **300g** brown sugar
 - **100g** granulated sugar
 - **1** egg
 - **1** egg yolk
