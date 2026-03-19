@@ -54,5 +54,5 @@
    - Serve warm and enjoy!
 
 ## Author
-In case of any issues, fill free to contact:
+In case of any issues, feel free to contact:
 John Brown, jhbrw@dtu.dk
