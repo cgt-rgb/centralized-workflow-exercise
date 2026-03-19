@@ -7,3 +7,8 @@
 - Cake flour
 - Cream of tartar
 - Vanilla and almond extracts
+
+## directions
+
+- seperate the eggs
+- Sift the flour and sugar 
