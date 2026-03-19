@@ -1,4 +1,4 @@
-# Pizza margherita
+# Negroni
 
 
 ## Ingredients
