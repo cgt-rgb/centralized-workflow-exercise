@@ -12,3 +12,4 @@
 
 - seperate the eggs
 - Sift the flour and sugar 
+- Whisk the egg whites
