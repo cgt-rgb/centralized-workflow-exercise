@@ -29,3 +29,7 @@
 
 5. **Serve:**
    - Serve warm and enjoy!
+
+## Author
+In case of any issues, feel free to contact:
+John Brown, jhbrw@dtu.dk
