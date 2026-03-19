@@ -17,3 +17,4 @@ Mix and shake gently, don't drink too much of them.
 
 5. **Serve:**
    - Serve warm and enjoy! (But be careful, the ice could melt!)
+   - Serve cold if you prefer - no judging!
