@@ -1,6 +1,6 @@
 # Angel Food Cake
 
-## Ingredienmts
+## Ingredients
 
 - Eggs
 - Sugar 
