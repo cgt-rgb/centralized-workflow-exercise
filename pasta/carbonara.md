@@ -25,3 +25,8 @@
 10. If needed, add a small splash of reserved pasta water, a little at a time, to loosen and emulsify the sauce.
 11. Taste and adjust with more pepper and grated parmigiano reggiano.
 12. Serve immediately.
+
+
+## Author
+In case of any issues, feel free to contact:
+John Brown, jhbrw@dtu.dk
